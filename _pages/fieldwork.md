@@ -2,7 +2,7 @@
 layout: page
 permalink: /fieldwork/
 title: Field Research
-description: Growing up in one of the poorest countries in the world has given me the edge in appreciating key issues in development.
+description: Growing up in one of the poorest countries in the world has given me the edge in appreciating dangers and issues with the existing dangerous divide across countries in development.
 nav: true
 nav_order: 2
 ---
