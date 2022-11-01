@@ -1,188 +1,32 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Laston Petro Manja
-      value: Laston Petro Manja
-    - name: Date of Birth
-      value: 14th April 1994
-    - name: Languages
-      value: English, Chichewa
-
-- title: Education
+- title: Lecturer - Undergraduate Courses
   type: time_table
   contents:
-    - title: Master of Arts in Economics
-      institution: University of Malawi, Chancellor College
-      year: 2018
-      description:
-        - Distinctions.
-        - Specialized in Econometrics and Monetary Economics.
+    - year: ECO 214
+      items:
+        - History of Economic Thought (syllabus here)
+    - year: DEC 313
+      items:
+        - Development Economics (syllabus here)
+    - year: ECO 322
+      items:
+        - Monetary Economics (syllabus here)
+    - year: ECO 413
+      items:
+        - Labour Economics (syllabus here)
 
-    - title: Bachelor of Social Science (Distinction)
-      institution: University of Malawi, Chancellor College
-      year: 2015
-      description:
-        - Major - Economics
-        - Minors - Psychology and Sociology
-
-- title: Work Experience
+- title: Lecturer - Master's Courses
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: University of Michigan
-      year: Jan 2021 - Present
-      description:
-        - This is a pre-doctorate under Professor Dean Yang.
+    - year: ECO 620
+      items:
+        - Advanced Macroeconomics
 
-    - title: Lecturer in Economics (Tenure)
-      institution: University of Malawi
-      year: Feb 2020 - Present
-      description:
-        - Involved in teachiing, among others, Quantitative courses, Development Economics, Labour Economics and Monetary Economics. I am also involved in various research projects.
-
-    - title: Education Analyst Consultant
-      institution: The World Bank
-      year: Jan 2019 - Dec 2020
-      description:
-        - As a data analyst for the Malawi education Sector Improvement Programme (MESIP), my duties included carrying out data analysis and report writing for the Malawi longitudinal schools Survey and governmment EMIS data. I was also involved in the field, both in developing survey instruments and supervising data collection teams for the project. In addition, I was member to the Education Development Partner Group meetings arranged by the UNDP. The position involved training officials from the Ministry of Education on how they can use available data sets to direct education policy, and providing technicall support in their research.
-
-    - title: Finance, Competitiveness & Innovation Consultant
-      institution: The World Bank
-      year: Jan 2019 - Dec 2020
-      description:
-        - Conducted a mapping exercise for business support programs in malawi for various development partners, government and other NGOs. I also contributed to drafting of project documents (such as the project Appraisal Document) for the Financial Inclusion and Entrepreneurship Scaling project by the World Bank
-
-    - title: Macroeconomics, Trade & Investment Consultant
-      institution: The World Bank
-      year: Aug 2018 - Dec 2020
-      description:
-        - Conducted several consultative meetings (with the IMF, central bank of Malawi, commercial banks, the private sector, government ministries and others) and drafted economic reports including the Malawi Economic Monitor (MEM), a World Bank bi-annual publication that updates the state of the macroeconomy and addresses a special policy issue in Malawi. I was also involved in disseminatingMEM findings with various stakeholders including government, development partners, NGOs and other interested parties. The position also involved working with the Senior Country Economist to consolidate and update macroeconomics data on indicators such as inflation, interest rates, exchange rates and others.
-
-    - title: Associate Director
-      institution: TEREN Consulting Ltd.
-      year: 2015 - 2017
-      description:
-        - I was charged with leading and managing various research projects, as well as conducting team building and technical training. I facilitated proposal writing, supervised field data collection, data management, data analysis and report writing.
-
-- title: Fellowships
+- title: Teaching Assistant
   type: time_table
   contents:
-    - year: 2021 - Present
+    - year: Masters Courses
       items:
-        - Pre-Doctoral Fellowship - University of Michigan, Ann Arbor (under <a href="https://fordschool.umich.edu/faculty/dean-yang">Professor Dean Yang</a>)
-    - year: 2021-2022
+        - ECO 630 - Quantitative Methods (syllabus here)
+    - year: Undergraduate Courses
       items:
-        - University of Michigan African Presidential Scholars (UMAPS) Program
-
-- title: Awards and Scholarships
-  type: time_table
-  contents:
-    - year: 2018
-      items:
-        - World Bank Internship after graduating top of the class from UNIMA’s graduate school
-    - year: 2016
-      items:
-        - Was awarded a Master’s Degree scholarship by the Economics Department
-    - year: 2011-2015
-      items:
-        - University of Malawi’s (Chancellor College) Deans’ list awards
-    - year: 2011-2015
-      items:
-        - Government sponsorship at the University of Malawi
-
-- title: Select Peer-Reviewed Journal Articles
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Manja, L.P., & Badjie, I.A. (2022). The Welfare Effects of Formal and Informal Financial Access in the Gambia - A Comparative Assessment. SAGE Open. Paper <a href="https://doi.org/10.1177/21582440221081111">here</a>
-        - Manja, L.P., Silumbu, E.B.D. & Chaweza, R.D.C. (2022). Determinants of Demand for International Reserves in the SADC Region. African Review of Economics and Finance, 1-28. Paper <a href="https://www.researchgate.net/publication/359278359_Determinants_of_demand_for_international_reserves_in_the_SADC_region">here</a>
-    - year: 2021
-      items:
-        - Zingwe, D.E., Manja, L.P. & Chirwa, E.W. (2021). The Effects of Engendered Intra-household Power Dynamics on Household Food Security and Nutrition in Malawi. Journal of Gender Studies, DOI - 10.1080/09589236.2021.1940110. Paper <a href="https://doi.org/10.1080/09589236.2021.1940110">here</a>
-    - year: 2020
-      items:
-        - Al-Hanawi, M.K., Chirwa, G.C., Kamninga T.M. & Manja L.P. (2020).  Effects of Financial Inclusion on Access to Emergency Funds for Healthcare in the Kingdom of Saudi Arabia. Journal of Multidisciplinary Healthcare, 2020(13), 1157—1167. Paper <a href="https://doi.org/10.2147/JMDH.S277357">here</a>
-
-- title: Conference Proceedings and Presentations
-  type: time_table
-  contents:
-    - year: 2020
-      items:
-        - Manja, L.P. & Silumbu, E.B.D. The Comparative Potential Growth-Enhancing Effects of the AFCFTA and COMESA Trade Regimes. Paper Presented at The Seventh COMESA Annual Research Forum, 19-21 October 2020, Virtual
-
-- title: Published Reports and Working Papers
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Allen IV, James, Patricia Freitag, Faustino Lessitala, Arlete Mahumane, Laston Manja, RyanMcWay, James Riddell IV, Tanya Rosenblat, Kwasi Tabiri, Dean Yang, and Hang Yu. 2022. “Combining Financial Incentives and Teaching to Improve COVID-19 Knowledge - A Policy Brief.” Ann Arbor, MI, University of Michigan. Available <a href="https://fordschool.umich.edu/sites/default/files/2022-06/Allen%20et%20al.%20%282022%29%20-%20Knowledge%20of%20COVID-19%20Mozambique.pdf">here</a>
-        - Allen IV, James, Patricia Freitag, Faustino Lessitala, Arlete Mahumane, Laston Manja, RyanMcWay, James Riddell IV, Tanya Rosenblat, Kwasi Tabiri, Dean Yang, and Hang Yu. 2022. “Correcting Misperceptions about Support for Social Distancing to Combat COVID-19 - A Policy Brief.” Ann Arbor, MI, University of Michigan. Available <a href="https://fordschool.umich.edu/sites/default/files/2022-06/Allen%20et%20al.%20%282022%29%20-%20Social%20Distancing%20for%20COVID-19%20Mozambique.pdf">here</a>
-        - Manja, Laston Petro, and Isatou A Badjie. 2022. “The Impacts of Access to Finance on Household Welfare - A Mixed Methods Approach for Women and the Youth in The Gambia.” Nairobi, Kenya, African Economic Research Consortium. Available <a href="http://publication.aercafricalibrary.org/handle/123456789/3468">here</a>
-    - year: 2021
-      items:
-        - Allen IV, James, Maggie Barnard, Zach Brown, Patricia Freitag, Faustino Lessitala, Arlete Mahumane, Laston Manja, Ryan McWay, James Riddell IV, Tanya Rosenblat, Dean Yang, and Hang Yu. 2021. “Combatting COVID-19 in Mozambique - Round 4 Summary Report.” Ann Arbor, MI, University of Michigan. Available <a href="https://fordschool.umich.edu/sites/default/files/2021-12/covid-mozambique-round4-summary-report..pdf">here</a>
-    - year: 2019
-      items:
-        - World Bank. (2019). Malawi Economic Monitor, December 2019 - Strengthening Human Capital Through Nutrition. World Bank, Lilongwe, Malawi. World Bank. Available <a href="https://openknowledge.worldbank.org/handle/10986/32890">here</a>
-        - World Bank. (2019). Malawi Economic Monitor, June 2019 - Charting a New Course. World Bank, Lilongwe, Malawi. World Bank. Available <a href="https://openknowledge.worldbank.org/handle/10986/31929">here</a>
-    - year: 2018
-      items:
-        - World Bank. (2018). Malawi Economic Monitor, November 2018 - Investing in Girls' Education. Washington, D.C., World Bank. Available <a href="http://documents.worldbank.org/curated/en/499481543334165465/Malawi-Economic-Monitor-Investing-in-Girls-Education">here</a>
-
-- title: Book Chapters
-  type: time_table
-  contents:
-    - year: 2021
-      items:
-        - Mwale, M.L., Chirwa, G.C., Kamninga T.M. & Manja L.P. (2021). Trust in Election Management Bodies, Participation in Demonstrations and Willingness to Pay Taxes - Evidence from Malawi. In K. Ross, A.L. Chiweza & W.O. Mulwafu (Eds.), Beyond Impunity - New Directions for Governance in Malawi (pp. 97-114).
-
-- title: Grants
-  type: time_table
-  contents:
-    - year: 2021
-      items:
-        - Co-Grantee - AERC “Inclusive Finance for Fragile and Post-Conflict States in Africa” Project. Conducting study on “The Impacts of Formal and Informal Access to Finance on Household Welfare - The Case of Women and the Youth in The Gambia” (2021)
-    - year: 2019
-      items:
-        - Co-Grantee - IFPRI’s “Enhancing the impact of agricultural extension in Malawi” project. Conducting study on “Agricultural Extension and Technical Efficiency for Malawian Smallholder Farmers” (2019).
-        - Co-Grantee - AERC AFPON project. Study on “A Comparative Assessment of the Impacts of Malawi Farm Input Subsidy and Irrigation Policies on Child Nutrition Status” (2019).
-
-- title: Abilities
-  type: list
-  contents:
-    - <u>Computational and Data Analysis:</u> Computer Literate and application of computer packages for data processes and analysis; Stata, R, eViews, Nvivo, CsPro, SPSS for Windows, Epi Info and Microsoft Office)
-    - <u>Data Collection:</u> Application of data collection tools - ODK, SurveyCTO, World Bank CAPI/CAWI
-    - <u>Other Software:</u> Document and presentation preparation software - LATEX Beamer, JabRef
-    - Proposal writing, Data Analysis and Report Writing
-    - Project Management
-    - Administration
-    - Research, Monitoring and Evaluation
-
-- title: Organizational Development
-  type: time_table
-  contents:
-    - year: 2017
-      items:
-        - Started Chirimba Youth Organization to deal with drug and substance abuse and reinstate school dropouts in school
-    - year: 2015
-      items:
-        - Was appointed Electoral Commissioner for University of Malawi Student Leader Elections
-
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - ECO 111 - Elementary Microeconomics (syllabus here)
