@@ -170,19 +170,16 @@
         - Was appointed Electoral Commissioner for University of Malawi Student Leader Elections
 
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Economics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Development Economics
+        - Impact Evaluation
+        - Household Behaviour and Decision Making
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Playing soccer, Walking in the Park, Coding, Maverick City Music.
