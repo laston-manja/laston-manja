@@ -1,23 +1,23 @@
 - title: Note
   type: list
   contents:
-    - Here are some of the courses I have taught before - at the University of Malawi
+    - Here are some of the courses I have taught before - at the University of Malawi. The PDF file (top right) compiles all listed undergraduate syllabi.
 
 - title: Lecturer - Undergraduate Courses
   type: time_table
   contents:
     - year: ECO 214
       items:
-        - History of Economic Thought (syllabus here)
+        - History of Economic Thought
     - year: DEC 313
       items:
-        - Development Economics (syllabus here)
+        - Development Economics
     - year: ECO 322
       items:
-        - Monetary Economics (syllabus here)
+        - Monetary Economics
     - year: ECO 413
       items:
-        - Labour Economics (syllabus here)
+        - Labour Economics
 
 - title: Lecturer - Master's Courses
   type: time_table
@@ -31,8 +31,8 @@
   contents:
     - year: Masters Courses
       items:
-        - ECO 630 - Quantitative Methods (syllabus here)
+        - ECO 630 - Quantitative Methods
     - year: Undergraduate Courses
       items:
-        - ECO 111 - Elementary Microeconomics (syllabus here)
-        - ECO 212 - Mathematics for Economists (syllabus here)
+        - ECO 111 - Elementary Microeconomics
+        - ECO 212 - Mathematics for Economists
