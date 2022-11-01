@@ -23,4 +23,4 @@ Hi! I am a [pre-doctoral fellow](https://fordschool.umich.edu/mozambique-researc
 
 I was born, raised and educated up to the Master’s level in Malawi, a low income country. My life experience has seen my passion for research and international development grow.  I am looking to get into an Economics-related doctoral program with interests in development.
 
-Here are links to my key socials: [LinkedIn](https://mw.linkedin.com/in/laston-p-manja-68a44995), [Google Scholar](https://scholar.google.com/citations?user=sqVwC2oAAAAJ&hl=en), [Facebook](https://www.facebook.com/laston.manja), and [Instagram](https://www.instagram.com/lastonpm/). 
+Here are links to my key socials: [LinkedIn](https://mw.linkedin.com/in/laston-p-manja-68a44995), [ORCID](https://orcid.org/0000-0002-0446-7674), [Google Scholar](https://scholar.google.com/citations?user=sqVwC2oAAAAJ&hl=en), [Facebook](https://www.facebook.com/laston.manja), and [Instagram](https://www.instagram.com/lastonpm/). 
