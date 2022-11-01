@@ -16,3 +16,5 @@ Besides my experience with the research in Mozambique, I have vast experience in
 Before that, my experience with an economics consulting field in Malawi gave me the chance to appreciate issues of development through the various field trips I had between 2015 and 2017.
 
 Below I share a pictorial mix of some of my past field experiences.
+
+image: prof_pic.jpg
