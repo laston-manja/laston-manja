@@ -29,10 +29,10 @@
 - title: Teaching Assistant
   type: time_table
   contents:
-    - year: Masters Courses
+    - year: Master's
       items:
         - ECO 630 - Quantitative Methods
-    - year: Undergraduate Courses
+    - year: Undergrad.
       items:
         - ECO 111 - Elementary Microeconomics
         - ECO 212 - Mathematics for Economists
