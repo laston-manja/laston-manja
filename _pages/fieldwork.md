@@ -17,4 +17,6 @@ Before that, my experience with an economics consulting field in Malawi gave me 
 
 Below I share a pictorial mix of some of my past field experiences.
 
-![zomba.jpg](/assets/img/zomba.jpg)
+![zomba.jpg](/assets/img/zomba.jpg)width="425"
+
+<img src="assets/img/prof_pic.jpg" width="425"/>
