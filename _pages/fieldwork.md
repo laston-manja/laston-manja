@@ -22,6 +22,6 @@ Below I share a pictorial mix of some of my past field experiences.
 
 ![zomba.jpg](/assets/img/community.jpg){: width="380" } ![zomba.jpg](/assets/img/commune.jpg){: width="380" }
 
-![zomba.jpg](/assets/img/zomba.jpg){: width="380" } ![zomba.jpg](/assets/img/farmlife.jpg){: width="380" }
+![zomba.jpg](/assets/img/theroad.jpg){: width="380" } ![zomba.jpg](/assets/img/farmlife.jpg){: width="380" }
 
-![zomba.jpg](/assets/img/theroad.jpg){: width="500" }
+![zomba.jpg](/assets/img/zomba.jpg){: width="700" }
