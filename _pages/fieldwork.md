@@ -32,3 +32,5 @@ Below I share a pictorial mix of some of my past field experiences.
 ![zomba.jpg](/assets/img/commune.jpg){: width="450" }
 
 ![zomba.jpg](/assets/img/farmlife.jpg){: width="450" }
+
+<a href="/assets/img/farmlife.jpg" width='250' height='YYY' alt='steam-fish-1'><a href="/assets/img/theroad.jpg" width='250' height='YYY' alt='steam-fish-1'>
