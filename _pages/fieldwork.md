@@ -32,4 +32,4 @@ Below I share a pictorial mix of some of my past field experiences.
 
 ![zomba.jpg](/assets/img/farmlife.jpg){: width="450" }
 
-![zomba.jpg](/assets/img/zomba.jpg){: width="450" } ![zomba.jpg](/assets/img/zomba.jpg){: width="450" }
+![zomba.jpg](/assets/img/zomba.jpg){: width="300" } ![zomba.jpg](/assets/img/zomba.jpg){: width="300" }
