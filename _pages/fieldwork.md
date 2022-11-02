@@ -18,4 +18,6 @@ Before that, my experience with an economics consulting field in Malawi gave me 
 Below I share a pictorial mix of some of my past field experiences.
 
 image: prof_pic.jpg
+
+![alt-text-1](prof_pic.jpg "title-1")
 <img src="assets/img/prof_pic.jpg" width="425"/>
