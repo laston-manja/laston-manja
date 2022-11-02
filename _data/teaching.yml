@@ -18,6 +18,9 @@
     - year: ECO 413
       items:
         - Labour Economics
+    - year: HEFC 222
+      items:
+        - Consumer Education and Financial Management
 
 - title: Lecturer - Master's Courses
   type: time_table
