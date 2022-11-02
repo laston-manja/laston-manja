@@ -151,7 +151,7 @@
 - title: Certificates/Training
   type: nested_list
   contents:
-    - title: 2022 ICPSR - Inter-University Consortium for Political and Social Research Summer Program in Quantitative Methods of Social Research
+    - title: <a href="https://www.icpsr.umich.edu/web/pages/">2022 ICPSR - Inter-University Consortium for Political and Social Research Summer Program in Quantitative Methods of Social Research</a>
       items:
         - Causal Inference for the Social Sciences
         - Panel Data and Longitudinal Analysis
@@ -159,7 +159,7 @@
         - Introduction to Python
     - title: 2022 GSMA Mobile Sector Taxation
     - title: 2019 GSMA Internet of Things
-    - title: 2016 IFPRI-NYU Improving Studies in Agricultural Communities
+    - title: <a href="https://massp.ifpri.info/2016/05/12/short-%C2%AD%E2%80%90course-improving-studies-in-agricultural-communities/">2016 IFPRI-NYU Improving Studies in Agricultural Communities</a>
 
 - title: Skills and Abilities
   type: list
