@@ -19,6 +19,6 @@ Below I share a pictorial mix of some of my past field experiences.
 
 image: prof_pic.jpg
 
-![prof_pic.jpg](/assets/images/prof_pic.jpg)
+![prof_pic.jpg](/assets/img/prof_pic.jpg)
 
 <img src="assets/img/prof_pic.jpg" width="425"/>
