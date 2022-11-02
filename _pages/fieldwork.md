@@ -18,18 +18,10 @@ Before that, my experience with an economics consulting field in Malawi gave me 
 Below I share a pictorial mix of some of my past field experiences.
 
 
-![zomba.jpg](/assets/img/zomba.jpg){: width="450" }
+![zomba.jpg](/assets/img/tea.jpg){: width="380" } ![zomba.jpg](/assets/img/teaestates.jpg){: width="380" }
 
-![zomba.jpg](/assets/img/theroad.jpg){: width="450" }
+![zomba.jpg](/assets/img/community.jpg){: width="380" } ![zomba.jpg](/assets/img/commune.jpg){: width="380" }
 
-![zomba.jpg](/assets/img/teaestates.jpg){: width="450" }
+![zomba.jpg](/assets/img/zomba.jpg){: width="380" } ![zomba.jpg](/assets/img/farmlife.jpg){: width="380" }
 
-![zomba.jpg](/assets/img/tea.jpg){: width="450" }
-
-![zomba.jpg](/assets/img/community.jpg){: width="450" }
-
-![zomba.jpg](/assets/img/commune.jpg){: width="450" }
-
-![zomba.jpg](/assets/img/farmlife.jpg){: width="450" }
-
-![zomba.jpg](/assets/img/zomba.jpg){: width="380" } ![zomba.jpg](/assets/img/zomba.jpg){: width="380" }
+![zomba.jpg](/assets/img/theroad.jpg){: width="500" }
