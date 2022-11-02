@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 14th April 1994
     - name: Languages
-      value: English (Fluent), Chichewa (Native), Portuguese (Beginner), KiSwahili (Beginner)
+      value: English (Fluent); Chichewa (Native); Portuguese (Beginner); KiSwahili (Beginner)
 
 - title: Education
   type: time_table
