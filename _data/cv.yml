@@ -148,6 +148,19 @@
         - Co-Grantee - IFPRI’s “Enhancing the impact of agricultural extension in Malawi” project. Conducting study on “Agricultural Extension and Technical Efficiency for Malawian Smallholder Farmers” (2019).
         - Co-Grantee - AERC AFPON project. Study on “A Comparative Assessment of the Impacts of Malawi Farm Input Subsidy and Irrigation Policies on Child Nutrition Status” (2019).
 
+- title: Certificates/Training
+  type: nested_list
+  contents:
+    - title: 2022 ICPSR - Inter-University Consortium for Political and Social Research Summer Program in Quantitative Methods of Social Research
+      items:
+        - Causal Inference for the Social Sciences
+        - Panel Data and Longitudinal Analysis
+        - Introduction to R Statistical Computing Environment
+        - Introduction to Python
+    - title: 2022 GSMA Mobile Sector Taxation
+    - title: 2019 GSMA Internet of Things
+    - title: 2016 IFPRI-NYU Improving Studies in Agricultural Communities
+        
 - title: Skills and Abilities
   type: list
   contents:
