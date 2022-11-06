@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Select peer reviewed articles
-years: [2022, 2021, 2020]
+description: Select peer reviewed journal articles, Master's thesis and Bachelor's dissertation
+years: [2022, 2021, 2020, 2018, 2015]
 nav: true
 nav_order: 1
 ---
