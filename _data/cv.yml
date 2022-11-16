@@ -11,6 +11,18 @@
 - title: Education
   type: time_table
   contents:
+    - title: University of Michigan African Presidential Scholars (UMAPS) Program
+      institution: University of Michigan
+      year: 2022
+      description:
+        - Audited Multivariable Calculus under Prof. Serin Hong.
+
+    - title: Real Analysis Audit Course
+      institution: University of Malawi
+      year: 2022
+      description:
+        - Audited Real Analysis under Prof. Patrick Ali.
+
     - title: Master of Arts in Economics
       institution: University of Malawi, Chancellor College
       year: 2018
