@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Working Paper, Select peer reviewed journal articles, Master's thesis and Bachelor's dissertation
+description: Working Paper, Selected peer reviewed journal articles, Master's thesis and Bachelor's dissertation
 years: [2022, 2021, 2020, 2018, 2015]
 nav: true
 nav_order: 1
