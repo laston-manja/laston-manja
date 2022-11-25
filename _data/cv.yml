@@ -16,6 +16,7 @@
       year: 2022
       description:
         - Audited Multivariable Calculus under Prof. Serin Hong.
+        - Audited Development Economics (Econ 665 and Econ 666) under Prof. Dean Yang
 
     - title: Real Analysis Audit Course
       institution: University of Malawi
@@ -42,11 +43,12 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Pre-Doctoral Fellowship
       institution: University of Michigan
       year: Jan 2021 - Present
       description:
-        - This is a pre-doctorate under Professor Dean Yang.
+        - This is a pre-doctorate under Professor Dean Yang from the Department of Economics and Ford School.
+        - I provide research assistance in a team studying “The Economics of Health Decision-Making in Mozambique”; by far culminating in a number of publications on Knowledge, Stigma, and HIV Testing, and Teaching and Incentives. The team has Prof. Dean Yang as Principal Investigator and, among others, Professors Tanya Rosenblat and Basit Zafar as Co-investigators. I assist in, among others, preparing documents for ethics approval, developing and digitizing survey instruments, monitoring and analyzing field data, and writing publications.
 
     - title: Lecturer in Economics (Tenure)
       institution: University of Malawi
@@ -77,22 +79,13 @@
       year: 2018-2019
       description:
         - Served under Professor Levison Chiwaula.
+        - I provided research assistance in various projects including one “Measuring Household Income among Smallholder Tobacco Farmers in the Central Region” in Malawi. I also assisted him in delivering lectures in various classes including Elementary Microeconomics.
 
     - title: Associate Director
       institution: TEREN Consulting Ltd.
       year: 2015 - 2017
       description:
         - I led and managed various research projects, and conducted team building and technical training. I facilitated proposal writing, supervised field data collection, data management, data analysis and report writing. I led the firm in transitioning from paper-based surveys to online surveys at a time when online surveys were less familiar in Malawi.
-
-- title: Fellowships
-  type: time_table
-  contents:
-    - year: 2021 - Present
-      items:
-        - Pre-Doctoral Fellowship - University of Michigan, Ann Arbor (under <a href="https://fordschool.umich.edu/faculty/dean-yang">Professor Dean Yang</a>)
-    - year: 2021-2022
-      items:
-        - University of Michigan African Presidential Scholars (UMAPS) Program
 
 - title: Awards and Scholarships
   type: time_table
@@ -117,6 +110,7 @@
       items:
         - Manja, L.P., & Badjie, I.A. (2022). The Welfare Effects of Formal and Informal Financial Access in the Gambia - A Comparative Assessment. SAGE Open. Paper <a href="https://doi.org/10.1177/21582440221081111">here</a>
         - Manja, L.P., Silumbu, E.B.D. & Chaweza, R.D.C. (2022). Determinants of Demand for International Reserves in the SADC Region. African Review of Economics and Finance, 1-28. Paper <a href="https://www.researchgate.net/publication/359278359_Determinants_of_demand_for_international_reserves_in_the_SADC_region">here</a>
+        - Kambewa, P., Khangamwa, L., Masanjala, W., Chaweza, R. & Manja, L.P. (2022). The Impact of Ill-Health on Welfare of Rural Agricultural Households of Teuka Village in Zomba District, Malawi - An Application of the Individual Household Modelling Approach. Malawi Journal of Economics, 3(1), 1-13.
     - year: 2021
       items:
         - Zingwe, D.E., Manja, L.P. & Chirwa, E.W. (2021). The Effects of Engendered Intra-household Power Dynamics on Household Food Security and Nutrition in Malawi. Journal of Gender Studies, DOI - 10.1080/09589236.2021.1940110. Paper <a href="https://doi.org/10.1080/09589236.2021.1940110">here</a>
@@ -197,7 +191,7 @@
     - Proposal writing, Data Collection, Data Analysis and Report Writing
     - Research, Monitoring and Evaluation
 
-- title: Organizational Development
+- title: Volunteering and Organizational Development
   type: time_table
   contents:
     - year: 2017
